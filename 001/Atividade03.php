@@ -1,5 +1,6 @@
 <?php
     $num = 9;
+    
 
     if ($num > 0) {
         $valor  = $num;
